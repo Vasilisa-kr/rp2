@@ -1,1 +1,27 @@
 файл в ветке demo не отличается от ветки master.
+txt file
+Всего 12 коммитов:
+
+12: new txt file
+
+11: txt file
+
+10: Merge branch 'boots_buttons'
+
+9: Merge remote-tracking branch 'origin/hat'
+
+8: Merge remote-tracking branch 'origin/buttons' into boots_buttons
+
+7: Merge remote-tracking branch 'origin/boots' into boots_buttons
+
+6: fix readme
+
+5: dots
+
+4: README added
+
+3: boots
+
+2: heat added
+
+1: init
